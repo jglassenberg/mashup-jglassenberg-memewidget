@@ -3,7 +3,7 @@
 
     <table>
       <tr repeat="true">
-        <td>story title</td>
+        <td><gm:text ref="atom:title"/></td>
         <td>digg count</td>
       </tr>
     </table>
